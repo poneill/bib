@@ -1,0 +1,17 @@
+
+* Overview
+  This is my bibliography.  I am trying to take [[http://reproducibleresearch.net/index.php/Main_Page][reproducible research]]
+  seriously.  For me, 'reproducible research' means that it should be
+  possible for other workers to clone a repo for my project and
+  [[http://blog.kaggle.com/2012/10/15/make-for-data-scientists/][literally compile my paper]] by typing:
+
+: $ make
+
+  at the command line.  By storing my bibliography as a git
+  repository, I can [[http://andrius.velykis.lt/2012/06/master-bibtex-file-git-submodules/][include it as a submodule]] in project repositories
+  and compile my paper as if it were any file belonging to the
+  project.
+
+* Acknowledgements
+  Thanks to Paul Butler, Andrius Velykis, Eric Schulte and others for
+  helpful writings on this subject.
